@@ -99,9 +99,11 @@ We use HTML and CSS for the front end work, and use Javascript and Jquery for ba
 ## Change Log
 <!-- Use this are to document the iterative changes made to your application as each feature is successfully implemented. Use time stamps. Here's an examples:
 
-01-01-2001 4:59pm - Application now has a fully-functional express server, with GET and POST routes for the book resource.
-
+9:00 - began reading through codebase
+9:10 - Began commenting where the instructions said
+9:20 - Began creating template literals
+10:00 - Adding event handlers
 ## Credits and Collaborations
-<!-- Give credit (and a link) to other people or resources that helped you build this application. -->
+Wyatt Pefley
 -->
 ```
